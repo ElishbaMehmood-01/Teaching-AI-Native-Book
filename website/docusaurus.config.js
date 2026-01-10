@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Teaching AI Native Book',
+  title: 'AI Native Book',
   tagline: 'An AI-native, spec-driven book on modern software development',
   favicon: 'img/favicon.ico',
 
@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Teaching AI Native Book',
+        title: 'Teach AI Native',
         logo: {
           alt: 'My web Logo',
           src: 'img/logo.svg',
@@ -95,7 +95,7 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/ElishbaMehmood-01/Teaching-AI-Native-Book',
             label: 'GitHub',
