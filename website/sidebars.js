@@ -33,7 +33,6 @@
 // };
 const sidebars = {
   tutorialSidebar: [
-    'introduction',
     'chapter-01-ai-native-development',
     'chapter-02-spec-driven-workflows',
     'chapter-03-using-spec-kit-plus',
